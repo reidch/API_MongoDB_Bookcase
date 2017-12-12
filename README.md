@@ -18,8 +18,8 @@ SCREENSHOTS
 
 The bookcase without any books in it.
 
-<img src="https://github.com/reidch/API_MongoDB_Bookcase/screenshots/bookcase_empty.png" alt="empty bookcase" width="350" />
+<img src="https://github.com/reidch/API_MongoDB_Bookcase/screenshots/bookcase_empty.png" alt="empty bookcase" width="300" />
 
 Once books have been added by the user.
 
-<img src="https://github.com/reidch/API_MongoDB_Bookcase/blob/master/Screenshots/bookcase_with_books.png" alt="bookcase with books" width="350" />
+<img src="https://github.com/reidch/API_MongoDB_Bookcase/screenshots/bookcase_with_books.png" alt="bookcase with books" width="300" />
