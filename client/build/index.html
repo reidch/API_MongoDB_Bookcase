@@ -4,23 +4,29 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Bookcase</title>
+	<title>Shelf Indulgence: digital bookcase</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	<link href="https://fonts.googleapis.com/css?family=Cinzel|Amatic+SC|Cormorant+Upright|Acme" rel="stylesheet">
 	<script src="bundle.js"></script>
 </head>
 <body>
+	<div><h1>Shelf Indulgence</h1>
+		<h2>A place to keep track of your book collection or make a note of books you would like to read.</h2>
+		<h3>Enter the book title and author's name in the boxes below.</h3>
+	</div>
 	<div class="container">
 		<form method="POST" action="/books">
 			<input type="text" placeholder="title" name="title">
 			<input type="text" placeholder="author" name="author">
 			<button type="submit">Add to bookcase</button>
 		</form>
+		<div class="list-container">
+			<ul id="books">
+			</ul>
+		</div>
 		<form action="/delete" method="POST">
 			<button id="deleteButton" type="submit">Empty bookcase</button>
 		</form>
-	</div>
-	<div class="list-container">
-		<ul id="books">
-		</ul>
 	</div>
 </body>
 </html>

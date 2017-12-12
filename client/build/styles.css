@@ -1,0 +1,52 @@
+html{
+	background-image: url("https://i.pinimg.com/736x/b9/01/2b/b9012bb4306218c67e7d582a94e8e5b4--bookshelf-inspiration-bookshelf-ideas.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1{
+	font-family: 'Cinzel', serif;;
+	color: #FF1744;
+	font-size: 28px;
+}
+
+h2, h3{
+	font-family: 'Cormorant Upright', serif;
+	color: #CFD8DC;
+}
+
+h2{
+	font-size: 20px;
+}
+
+h3{
+	font-size: 18px;
+}
+
+input{
+	font-family: 'Cinzel', serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #37474F;
+	padding: 3px 3px;
+	width: 160px;
+}
+
+button{
+	font-family: 'Acme', sans-serif;
+	font-size: 16px;
+	color: #37474F;
+	background-color: #CDDC39;
+	padding: 2px 2px;
+	width: auto;
+}
+
+#deleteButton {
+  background-color: #FF1744;
+}
+
+#books{
+	font-family: 'Cinzel', serif;
+	color: #CDDC39;
+	font-size: 20px;
+}
