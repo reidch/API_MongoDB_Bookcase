@@ -22,4 +22,4 @@ The bookcase without any books in it.
 
 Once books have been added by the user.
 
-<img src="https://github.com/reidch/API_MongoDB_Bookcase/screenshots/bookcase_with_books.png" alt="bookcase with books" width="300" />
+<img src="https://github.com/reidch/API_MongoDB_Bookcase/blob/master/screenshots/bookcase_with_books.png" alt="bookcase with books" width="300" />
