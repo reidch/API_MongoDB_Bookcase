@@ -17,7 +17,8 @@ Having a bit of fun with the aesthetic appearance of the form and data using CSS
 SCREENSHOTS
 
 The bookcase without any books in it.
-<img src="https://github.com/reidch/API_MongoDB_Bookcase/blob/master/Screenshots/bookcase_empty.png" alt="empty bookcase" width="350" />
+
+<img src="https://github.com/reidch/API_MongoDB_Bookcase/screenshots/bookcase_empty.png" alt="empty bookcase" width="350" />
 
 Once books have been added by the user.
 
