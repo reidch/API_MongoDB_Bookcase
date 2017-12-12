@@ -2,6 +2,15 @@ html{
 	background-image: url("https://i.pinimg.com/736x/b9/01/2b/b9012bb4306218c67e7d582a94e8e5b4--bookshelf-inspiration-bookshelf-ideas.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
+
+}
+
+body {
+    display: block;
+    margin: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 
 h1{
